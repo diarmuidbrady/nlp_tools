@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "2023-ca-4023-bradyd-35"
+  site-url: "https://bradyd35.gitlab.computing.dcu.io/2023-ca-4023-bradyd-35"
+  description: ""
+  repo-branch: master
+  repo-url: "https://gitlab.computing.dcu.ie/bradyd35/2023-ca-4023-bradyd-35"

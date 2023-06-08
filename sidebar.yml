@@ -1,0 +1,7 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 1_1_Sentence_Splitter.ipynb
+      - 1_2_Bigram_Model.ipynb
+      - 1_3_Naive_Bayes.ipynb
